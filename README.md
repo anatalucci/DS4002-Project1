@@ -61,3 +61,8 @@ README.md
 ```
 
 ## Instructions
+
+
+## References 
+[1] R. Nandagopal, A. Jayakumar, and G. Manokaran, “Impact of Online Reviews on Consumer Purchasing Decisions.” 
+
