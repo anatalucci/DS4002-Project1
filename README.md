@@ -28,6 +28,7 @@ Platform: macOS
 
 ```
 Data/
+├── data_origin.txt
 ├── filtered_firestick_reviews.csv
 ├── firestick_reviews_cleaned.csv
 └── most_reviewed_asin.csv
@@ -43,11 +44,12 @@ Outputs/
 │   ├── balanced_confusion_matrix.png
 │   ├── nonstratified_confusion_matrix.png
 │   └── stratified_confusion_matrix.png
-└── metrics_tables/
+├── metrics_tables/
     ├── balanced_metrics_table.png
     ├── nonstratified_metrics_table.png
     ├── stratified_metrics_table
     └── text_cnn_model.png
+└── text_cnn_model.png
 
 Scripts/
 ├── EDA.ipynb
