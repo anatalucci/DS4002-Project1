@@ -116,6 +116,7 @@ README.md
 
 
 ## References 
-[1] “Amazon Reviews’23,” Github.io, 2023. https://amazon-reviews-2023.github.io/#citation (accessed Feb. 12, 2026).
+[1] “Amazon Reviews’23,” amazon-reviews-2023.github.io. https://amazon-reviews-2023.github.io/
+‌
 ‌
 
