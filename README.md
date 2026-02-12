@@ -117,6 +117,8 @@ README.md
 
 ## References 
 [1] “Amazon Reviews’23,” amazon-reviews-2023.github.io. https://amazon-reviews-2023.github.io/
+[2] R. Nandagopal, A. Jayakumar, and G. Manokaran, “Impact of Online Reviews on Consumer Purchasing Decisions.” 
+
 ‌
 ‌
 
